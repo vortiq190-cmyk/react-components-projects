@@ -1,11 +1,10 @@
-import AboutSection from "./components/About/About";
-import ProjectsSection from "./components/Projects/Projects";
-import SkillsSection from "./components/Skills/Skills";
-import './App.css'
+import AboutSection from "./components/About";
+import ProjectsSection from "./components/Projects";
+import SkillsSection from "./components/Skills";
 
 function App() {
   return (
-    <div className="container">
+    <div className="container mx-auto">
       <h1>Ebube Anyanwu</h1>
 
       <AboutSection/>
