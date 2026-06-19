@@ -1,9 +1,17 @@
 const AboutSection = () => {
     return (
-        <section className="about-section">
-        <h2>About Me</h2>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam culpa rem tempora architecto laudantium minus quam aperiam praesentium fugiat vitae optio amet, minima voluptatum quidem vero eum, neque error? Porro facilis dolores neque! Ut dolorem vero distinctio laborum dicta iusto et voluptatum. Unde doloremque ad minima vero earum rem sint.</p>
-      </section>
+         <section className="mb-16">
+      <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 shadow-xl">
+        <h2 className="text-3xl font-bold mb-4 text-cyan-400">
+          About Me
+        </h2>
+
+        <p className="text-gray-200 leading-8">
+          I am a passionate software Developer who enjoys building applications using modern
+          technologies that solves real problems and create great user experiences.
+        </p>
+      </div>
+    </section>
     )
 }
 
