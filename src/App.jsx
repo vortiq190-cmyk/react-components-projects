@@ -24,7 +24,7 @@ function App() {
 
         <div className="flex justify-center mb-16">
           <a
-            href="https://github.com/your-github-vorrtiq90"
+            href="https://github.com/your-github-vortiq190-cmyk"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 rounded-full bg-cyan-500 hover:bg-cyan-600 transition duration-300 shadow-lg hover:scale-105 font-semibold"
